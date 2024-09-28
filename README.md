@@ -1,7 +1,3 @@
-Certainly! Below is a descriptive `README.md` file tailored for your GitHub repository **AthloSphere**, incorporating the specified navigation elements and removing the project structure and installation sections.
-
----
-
 # AthloSphere
 
 **AthloSphere** is a comprehensive platform dedicated to all things related to the Olympic Games. Designed to serve athletes, coaches, enthusiasts, and anyone passionate about the Olympics, AthloSphere offers an extensive array of information on athletes, sports, academies, coaching, roadmaps, medals, eligibility criteria, and much more. Whether you're an aspiring Olympian, a dedicated follower of the games, or simply curious about the rich history and dynamics of the Olympics, AthloSphere is your go-to portal for insightful and up-to-date information.
