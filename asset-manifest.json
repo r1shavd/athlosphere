@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.61b98a0d.css",
-    "main.js": "/static/js/main.e069171e.js",
-    "static/js/453.9b8cc887.chunk.js": "/static/js/453.9b8cc887.chunk.js",
-    "index.html": "/index.html",
-    "main.61b98a0d.css.map": "/static/css/main.61b98a0d.css.map",
-    "main.e069171e.js.map": "/static/js/main.e069171e.js.map",
-    "453.9b8cc887.chunk.js.map": "/static/js/453.9b8cc887.chunk.js.map"
+    "main.css": "/athlosphere/static/css/main.61b98a0d.css",
+    "main.js": "/athlosphere/static/js/main.c05dbc19.js",
+    "static/js/453.9b8cc887.chunk.js": "/athlosphere/static/js/453.9b8cc887.chunk.js",
+    "index.html": "/athlosphere/index.html",
+    "main.61b98a0d.css.map": "/athlosphere/static/css/main.61b98a0d.css.map",
+    "main.c05dbc19.js.map": "/athlosphere/static/js/main.c05dbc19.js.map",
+    "453.9b8cc887.chunk.js.map": "/athlosphere/static/js/453.9b8cc887.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61b98a0d.css",
-    "static/js/main.e069171e.js"
+    "static/js/main.c05dbc19.js"
   ]
 }
